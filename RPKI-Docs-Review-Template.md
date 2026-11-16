@@ -1,4 +1,4 @@
-# Ops-Dir Review Template
+# RPKI Doctors Review Template
 
 Hi,
 
@@ -35,7 +35,7 @@ Choose one:
 
 ## **General Comments Alignment** 
 
-Provide an overview of the draft’s alignment with RFC6480 and [RPKI Doctors CheckList](RPKI-Doctors-CheckList.md).
+Provide an overview of the draft’s alignment with RFC6480 and [RPKI Doctors CheckList](RPKI-Doctors-Check-List.md).
 
 
 ## **Major Issues** 
